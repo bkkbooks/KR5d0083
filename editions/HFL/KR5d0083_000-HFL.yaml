@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0083/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清庵瑩蟾子語録序作家話靶打頭相遇便把自家屋裏話拈出此豈非道中之作家者乎予自幼業儒壯愛談空雖愚賤者有能道酸餡氣話亦不以儒自高必屈己下問但未能遇作家爾一日歸茅山舊隱清庵瑩蟾子李君來訪座未温發數語字字無烟火氣繼而講羲皇未畫以前易透祖師過不切底關把三教紙上語掃得赤洒洒將我輩瞎漢眼點出圓陀陀清氣襲人和光滿座恍不知移蟾窟於予身中耶抑予潜身入蟾窟中耶是夜驚喜萬倍整心慮爇心香拜於床下曰眞我師也眞作家也師不我棄願加警誨是後從師日久問答頗多集成一編時爲展敬直待向清庵座下踢翻玄妙寨粉碎太虛空方爲了事漢於斯時也若有箇出來問清庵老曰到這裏要這骨董做甚必則曰便是我打頭遇作家底話靶時至元戊子夏季大雨時行日茅山道士嘿庵廣蟾子稽首謹書
+  hash: sha256:3f28b2eff4439658f3a3f39971a32e2f0b7135b3219042a711be0840d1bac4d1
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0083_HFL_000-001a, image: hfl/0729/0729-004.png}
+metadata:
+  title: 清庵瑩蟾子語錄
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:03:23.484617'
+  source:
+    repository: kanripo
+    path: KR5d0083/KR5d0083_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:fed3a33a171e13d4a9e0c2ad4446c2190f1a145e9f80cb1e030dd65a6a187aed
